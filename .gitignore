@@ -1,3 +1,9 @@
+# tempory files
+*~
+
+# build directory
+build/
+
 # Prerequisites
 *.d
 
